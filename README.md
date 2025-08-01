@@ -15,5 +15,5 @@ Our method introduces a Reconstruction Module to quantify the domain shift and a
 We evaluate our approach on two medical image-to-image translation tasks: low-dose CT denoising and $T_1$ to $T_2$ MRI translation, showing consistent improvements over both the baseline translation model without TTA and prior TTA methods.
 Our analysis highlights the limitations of the state-of-the-art that uniformly apply the adaptation to both OOD and ID samples, demonstrating that dynamic, sample-specific adjustment offers a promising path to improve model resilience in real-world scenarios.
 
-![alt text](https://github.com/cosbidev/XGeM/blob/main/Model.png)
+![alt text](https://raw.githubusercontent.com/ireneiele/Sample-Aware-Test-Time-Adaptation-for-Medical-Image-to-Image-Translation/refs/heads/main/method_v6_page.jpg)
 
